@@ -14,6 +14,7 @@
 		3AD4C99325D621B2003E041B /* ScrollView_Updated.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 3AD4C99125D621B2003E041B /* ScrollView_Updated.xcdatamodeld */; };
 		3AD4C99525D621B4003E041B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3AD4C99425D621B4003E041B /* Assets.xcassets */; };
 		3AD4C99825D621B4003E041B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3AD4C99625D621B4003E041B /* LaunchScreen.storyboard */; };
+		3AD4C9A125D62304003E041B /* MyCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3AD4C9A025D62304003E041B /* MyCollectionViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		3AD4C99425D621B4003E041B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3AD4C99725D621B4003E041B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		3AD4C99925D621B4003E041B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3AD4C9A025D62304003E041B /* MyCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyCollectionViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 				3AD4C98825D621B2003E041B /* AppDelegate.swift */,
 				3AD4C98A25D621B2003E041B /* SceneDelegate.swift */,
 				3AD4C98C25D621B2003E041B /* ViewController.swift */,
+				3AD4C9A025D62304003E041B /* MyCollectionViewCell.swift */,
 				3AD4C98E25D621B2003E041B /* Main.storyboard */,
 				3AD4C99425D621B4003E041B /* Assets.xcassets */,
 				3AD4C99625D621B4003E041B /* LaunchScreen.storyboard */,
@@ -141,6 +144,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				3AD4C98D25D621B2003E041B /* ViewController.swift in Sources */,
+				3AD4C9A125D62304003E041B /* MyCollectionViewCell.swift in Sources */,
 				3AD4C98925D621B2003E041B /* AppDelegate.swift in Sources */,
 				3AD4C98B25D621B2003E041B /* SceneDelegate.swift in Sources */,
 				3AD4C99325D621B2003E041B /* ScrollView_Updated.xcdatamodeld in Sources */,
